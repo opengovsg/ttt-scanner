@@ -30,6 +30,6 @@ rsa==3.4.2
 s3transfer==0.1.13
 six==1.11.0
 timeout-decorator==0.4.0
-urllib3==1.22
+urllib3==1.24.2
 watchtower==0.5.2
 wifi==0.3.8
