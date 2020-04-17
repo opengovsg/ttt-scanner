@@ -1,0 +1,20 @@
+branches:
+  only:
+  - master
+
+install: true
+
+script:
+- echo $TRAVIS_EVENT_TYPE
+- cat resin_ssh_known_hosts >> ~/.ssh/known_hosts
+
+after_success:
+- if [ "$TRAVIS_EVENT_TYPE" == "push" ] && [ "$TRAVIS_BRANCH" == "master" ]; then
+      git remote add resin $RESIN_REMOTE ;
+      git push resin master -f ;
+  fi
+
+notifications:
+  email: false
+  slack:
+    secure: 6o9yikeEBHWL763QoIhGiwJ/d2pRin5mFNALXvsWT7LWRbqLXdZJhNHR8AlLes9YTTkhIBL12Aw+wMOTuQztBtSZ8KyPwdIJlBLMOqHxqwHjVG5ZDF17q4ixFTpxLF2wTs97fM9IGMbdPK7K1pXtFLiK57vg1ae8q42A2/pwy1M/T929lPMdc08oLb6xXtwQGQLxUoPegEPwOtYMyEiYdmgvHA1hc/y2sj4/x3EfQTlbnrA/fvb8VlX/8gCVZd0PU9BAPBIBbvuVIcAAmet/D2mlZOlDjlLItCHxhVcoq+tY7OYSFOWxCozAnb2jOfRVyBcZeTDgZHb5RWWu/U+FlqBz3bnhBQpl01NWOJbn+5w07i0Ui45X86vC+vCbD2IySwqieqPWFjel++ZdbOlEj0WveJ+MIgW+ipirBIOCtGQS24MXl4DYsy6szfmInuVs50WA+hNV1FyWEKIjvGz5+HE7ZXhxRibrkSKjL1gILL4Vw8NYJUHgyn+oXjHBbSev61qa9kcjeZ/hul50XCPrHO+oXQ34pQ/AZmIeZv5IS3L7U5Sal1vybJVIhcNi092HtX7Gx68fZrSv1VYqcXAlAt4rZn0FylF1RceXr0NjdAh/XHDeLWQrIp4X9WLwMIPu2NWUmmjN1fq77C828kmPPDqcuSkdhS603+1dKaUs6/A=

@@ -1,0 +1,11 @@
+version: '2.1'
+services:
+  main:
+    build: .
+    image: datagovsg/mrt-location
+    privileged: true
+    restart: always
+    network_mode: host
+    command: bash start.sh
+    environment:
+      INITSYSTEM: "on"

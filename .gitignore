@@ -1,0 +1,28 @@
+################################################################################
+# Universal Ignores
+################################################################################
+*.DS_Store
+*/.DS_Store
+*.pyc
+*.iso
+
+################################################################################
+# scrape directory
+################################################################################
+scrape/traintraintrain-bb07a\.json
+scrape/output*.json
+scrape/venv/
+scrape/data/
+scrape/output/
+scrape/combine\.py
+scrape/stationSSIDs\.json
+scrape/mrtScanner/logs/*
+scrape/mrtScanner/config.ini
+scrape/mrtScanner/createconfig.py
+scrape/mrtScanner/testScanner.py
+
+################################################################################
+# Credentials
+################################################################################
+scrape/credentials/*
+scrape/mrtScanner/credentials/*

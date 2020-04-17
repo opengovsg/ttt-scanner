@@ -1,0 +1,616 @@
+[
+    {
+        "stationName": "EW33 - Tuas Link",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW32 - Tuas West Road",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW31 - Tuas Crescent",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW30 - Gul Circle",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW29 - Joo Koon",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW28 - Pioneer",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW27 - Boon Lay",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW26 - Lakeside",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW25 - Chinese Garden",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW24 - Jurong East",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW23 - Clementi",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW22 - Dover",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW21 - Buona Vista",
+        "stops": []
+    },
+    {
+        "stationName": "EW20 - Commonwealth",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW19 - Queenstown",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW18 - Redhill",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW17 - Tiong Bahru",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW16 - Outram Park",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW15 - Tanjong Pagar",
+        "stops": []
+    },
+    {
+        "stationName": "EW14 - Raffles Place",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW13 - City Hall",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW12 - Bugis",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW11 - Lavender",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW10 - Kallang",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW9 - Aljunied",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW8 - Paya Lebar",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW7 - Eunos",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW6 - Kembangan",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW5 - Bedok",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW4 - Tanah Merah",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW3 - Simei",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW2 - Tampines",
+        "stops": [] 
+    },
+    {
+        "stationName": "EW1 - Pasir Ris",
+        "stops": [] 
+    },
+    {
+        "stationName": "CG1 - Expo",
+        "stops": [] 
+    },
+    {
+        "stationName": "CG2 - Changi Airport",
+        "stops": [] 
+    },
+
+
+    {
+        "stationName": "NS1 - Jurong East",
+        "stops": [] 
+    },
+    {
+        "stationName": "NS2 - Bukit Batok",
+        "stops": [] 
+    },
+    {
+        "stationName": "NS3 - Bukit Gombak",
+        "stops": [] 
+    },
+    {
+        "stationName": "NS4 - Choa Chua Kang",
+        "stops": [] 
+    },
+    {
+        "stationName": "NS5 - Yew Tee",
+        "stops": [] 
+    },
+    {
+        "stationName": "NS6 - Reserved",
+        "stops": [] 
+    },
+    {
+        "stationName": "NS7 - Kranji",
+        "stops": [] 
+    },
+    {
+        "stationName": "NS8 - Marsiling",
+        "stops": [] 
+    },
+    {
+        "stationName": "NS9 - Woodlands",
+        "stops": [] 
+    },
+    {
+        "stationName": "NS10 - Admiralty",
+        "stops": [] 
+    },
+    {
+        "stationName": "NS11 - Sembawang",
+        "stops": [] 
+    },
+    {
+        "stationName": "NS12 - Canberra",
+        "stops": [] 
+    },
+    {
+        "stationName": "NS13 - Yishun",
+        "stops": [] 
+    },
+    {
+        "stationName": "NS14 - Khatib",
+        "stops": [] 
+    },
+    {
+        "stationName": "NS15 - Yio Chu Kang",
+        "stops": [] 
+    },
+    {
+        "stationName": "NS16 - Ang Mo Kio",
+        "stops": [] 
+    },
+    {
+        "stationName": "NS17 - Bishan",
+        "stops": [] 
+    },
+    {
+        "stationName": "NS18 - Braddell",
+        "stops": [] 
+    },
+    {
+        "stationName": "NS19 - Toa Payoh",
+        "stops": [] 
+    },
+    {
+        "stationName": "NS20 - Novena",
+        "stops": [] 
+    },
+    {
+        "stationName": "NS21 - Newton",
+        "stops": [] 
+    },
+    {
+        "stationName": "NS22 - Orchard",
+        "stops": [] 
+    },
+    {
+        "stationName": "NS23 - Somerset",
+        "stops": [] 
+    },
+    {
+        "stationName": "NS24 - Dhoby Ghaut",
+        "stops": [] 
+    },
+    {
+        "stationName": "NS25 - City Hall",
+        "stops": [] 
+    },
+    {
+        "stationName": "NS26 - Raffles Place",
+        "stops": [] 
+    },
+    {
+        "stationName": "NS27 - Marina Bay",
+        "stops": [] 
+    },
+    {
+        "stationName": "NS28 - Marina Bay South Pier",
+        "stops": [] 
+    },
+
+    {
+        "stationName": "CC1 - Dhoby Ghaut",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC2 - Bras Basah",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC3 - Esplanade",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC4 - Promenade",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC5 - Nicoll Highway",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC6 - Stadium",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC7 - Mountbatten",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC8 - Dakota",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC9 - Paya Lebar",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC10 - MacPherson",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC11 - Tai Seng",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC12 - Bartley",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC13 - Serangoon",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC14 - Lorong Chuan",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC15 - Bishan",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC16 - Marymount",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC17 - Caldecott",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC18 - Bukit Brown",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC19 - Botanic Gardens",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC20 - Farrer Road",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC21 - Holland Village",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC22 - Buona Vista",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC23 - one-north",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC24 - Kent Ridge",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC25 - Haw Par Villa",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC26 - Pasir Panjang",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC27 - Labrador Park",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC28 - Telok Blangah",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC29 - HarbourFront",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC30 - Keppel",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC31 - Cantonment",
+        "stops": [] 
+    },
+    {
+        "stationName": "CC32 - Prince Edward",
+        "stops": [] 
+    },
+
+    {
+        "stationName": "CE1 - Bayfront",
+        "stops": [] 
+    },
+    {
+        "stationName": "CE2 - Marina Bay",
+        "stops": [] 
+    },
+
+    {
+        "stationName": "NE1 - HarbourFront",
+        "stops": [] 
+    },
+    {
+        "stationName": "NE2 - Reserved",
+        "stops": [] 
+    },
+    {
+        "stationName": "NE3 - Outram Park",
+        "stops": [] 
+    },
+    {
+        "stationName": "NE4 - Chinatown",
+        "stops": [] 
+    },
+    {
+        "stationName": "NE5 - Clarke Quay",
+        "stops": [] 
+    },
+    {
+        "stationName": "NE6 - Dhoby Ghaut",
+        "stops": [] 
+    },
+    {
+        "stationName": "NE7 - Little India",
+        "stops": [] 
+    },
+    {
+        "stationName": "NE8 - Farrer Park",
+        "stops": [] 
+    },
+    {
+        "stationName": "NE9 - Boon Keng",
+        "stops": [] 
+    },
+    {
+        "stationName": "NE10 - Potong Pasir",
+        "stops": [] 
+    },
+    {
+        "stationName": "NE11 - Woodleigh",
+        "stops": [] 
+    },
+    {
+        "stationName": "NE12 - Serangoon",
+        "stops": [] 
+    },
+    {
+        "stationName": "NE13 - Kovan",
+        "stops": [] 
+    },
+    {
+        "stationName": "NE14 - Hougang",
+        "stops": [] 
+    },
+    {
+        "stationName": "NE15 - Buangkok",
+        "stops": [] 
+    },
+    {
+        "stationName": "NE16 - Sengkang",
+        "stops": [] 
+    },
+    {
+        "stationName": "NE17 - Punggol",
+        "stops": [] 
+    },
+    {
+        "stationName": "NE18 - Punggol Coast",
+        "stops": [] 
+    },
+
+    {
+        "stationName": "DT1 - Bukit Panjang",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT2 - Cashew",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT3 - Hillview",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT4 - Reserved",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT5 - Beauty World",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT6 - King Albert Park",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT7 - Sixth Avenue",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT8 - Tan Kah Kee",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT9 - Botanic Gardens",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT10 - Stevens",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT11 - Newton",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT12 - Little India",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT13 - Rochor",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT14 - Bugis",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT15 - Promenade",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT16 - Bayfront",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT17 - Downtown",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT18 - Telok Ayer",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT19 - Chinatown",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT20 - Fort Canning",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT21 - Bencoolen",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT22 - Jalan Besar",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT23 - Bendemeer",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT24 - Geylang Bahru",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT25 - Mattar",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT26 - MacPherson",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT27 - Ubi",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT28 - Kaki Bukit",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT29 - Bedok North",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT30 - Bedok Reservoir",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT31 - Tampines West",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT32 - Tampines",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT33 - Tampines East",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT34 - Upper Changi",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT35 - Expo",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT36 - Xilin",
+        "stops": [] 
+    },
+    {
+        "stationName": "DT37 - Sungei Bedok",
+        "stops": [] 
+    }
+]
