@@ -26,7 +26,7 @@ python-dateutil==2.6.1
 python-wifi==0.6.1
 pytz==2018.3
 requests==2.20.0
-rsa==3.4.2
+rsa==4.1
 s3transfer==0.1.13
 six==1.11.0
 timeout-decorator==0.4.0
